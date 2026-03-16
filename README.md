@@ -56,7 +56,4 @@
   </span>
 ---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huynhdangthienthach&layout=compact" style="width:50%;" />
-</p>
 
