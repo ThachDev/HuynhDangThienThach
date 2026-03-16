@@ -26,7 +26,7 @@
 <p align="center">
 
 <a href="mailto:thachhuynh.dev@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" width="40" />
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/thachdev/" target="_blank">
