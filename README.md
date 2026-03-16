@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=120&section=header"/>
-
 [![MasterHead](https://www.geekbase.in/assets/images/flutter.gif)](https://flutter.dev)
 
 <h1 align="center">Hi 👋, I'm Thien Thach</h1>
@@ -82,5 +80,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynhdangthienthach&layout=compact&theme=tokyonight" width="40%"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=120&section=footer"/>
